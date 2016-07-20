@@ -1,0 +1,5 @@
+C:\Users\Федя Петренко\Desktop\DataModification\DataModificationLibrary\bin\Debug\DataModificationLibrary.dll
+C:\Users\Федя Петренко\Desktop\DataModification\DataModificationLibrary\bin\Debug\DataModificationLibrary.pdb
+C:\Users\Федя Петренко\Desktop\DataModification\DataModificationLibrary\obj\Debug\DataModificationLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Федя Петренко\Desktop\DataModification\DataModificationLibrary\obj\Debug\DataModificationLibrary.dll
+C:\Users\Федя Петренко\Desktop\DataModification\DataModificationLibrary\obj\Debug\DataModificationLibrary.pdb
